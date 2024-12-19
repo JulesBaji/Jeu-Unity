@@ -1,0 +1,36 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignore les métadonnées des versions Unity
+[Aa]ssets/**/*.meta
+
+# Ignore les fichiers de cache
+[Cc]ache/
+*.stackdump
+
+# Ignore les fichiers générés par l'éditeur
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore les fichiers de configuration des IDE
+.vscode/
+.idea/
+
+# Ignore les fichiers spécifiques à macOS
+.DS_Store
+
+# Autres fichiers à ignorer
+[Pp]roject[Ss]ettings/
