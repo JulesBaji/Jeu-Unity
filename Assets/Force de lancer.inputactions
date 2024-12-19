@@ -1,0 +1,34 @@
+{
+    "name": "Force de lancer",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "e5c17eee-d594-4438-93ee-26c477e60f93",
+            "actions": [
+                {
+                    "name": "Throw",
+                    "type": "Button",
+                    "id": "9ff03e26-1995-4637-86d1-a8d893e661fb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press,Hold",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "eb1540fc-2433-4682-9441-b7c3d5d96980",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throw",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
